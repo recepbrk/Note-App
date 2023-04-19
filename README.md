@@ -13,6 +13,7 @@
 - ROOM Database
 - MVVM
 - Firebase Authentication
+-Clean Architecture
 - AndroidViewModel
 - ViewBinding
 - Recyclerview
