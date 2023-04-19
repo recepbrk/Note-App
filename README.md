@@ -12,7 +12,7 @@
 
 - ROOM Database
 - MVVM
-- Firebase Authentication
+- Firebase Authentication(Login ,Register ,Forgot Password)
 - Clean Architecture
 - Pop up Menu
 - AndroidViewModel
