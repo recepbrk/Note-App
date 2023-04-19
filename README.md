@@ -14,6 +14,7 @@
 - MVVM
 - Firebase Authentication
 - Clean Architecture
+- Pop up Menu
 - AndroidViewModel
 - ViewBinding
 - Recyclerview
