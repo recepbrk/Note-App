@@ -71,7 +71,7 @@
         android:id="@+id/textInputLayout2"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginTop="450dp"
+        android:layout_marginTop="380dp"
         app:endIconMode="clear_text"
         app:hintTextColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"

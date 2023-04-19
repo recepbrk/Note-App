@@ -31,6 +31,10 @@ class LogiNActivity : AppCompatActivity() {
             performSignUp()
         }
 
+        binding.textView11.setOnClickListener {
+            startActivity(Intent(this,ForgotPasswordActivity::class.java))
+        }
+
 
     }
 
