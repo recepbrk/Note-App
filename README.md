@@ -24,9 +24,7 @@
 
 
 
-## Tutorial Video
 
-➡️ [@Video Link](https://www.youtube.com/watch?v=8_u4EOYShgo&t=6121s&ab_channel=Foxandroid)
 
 
   
